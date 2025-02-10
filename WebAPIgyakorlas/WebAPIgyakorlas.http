@@ -1,0 +1,6 @@
+@WebAPIgyakorlas_HostAddress = http://localhost:5173
+
+GET {{WebAPIgyakorlas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
