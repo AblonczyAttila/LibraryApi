@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPIgyakorlas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99789be194558ba68d863ca69dfbc1f4390a149")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPIgyakorlas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPIgyakorlas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
